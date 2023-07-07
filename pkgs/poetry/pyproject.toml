@@ -80,6 +80,7 @@ virtualenv = [
 ]
 xattr = { version = "^0.10.0", markers = "sys_platform == 'darwin'" }
 urllib3 = "^1.26.0"
+keyrings-google-artifactregistry-auth = "^1.1.2"
 
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^2.6"
